@@ -8,7 +8,7 @@ Project basically uses SQLite, you may change it if you like
 
 ## Installation
 
-* Clone the repository
+* Clone the repository `git clone git@github.com:sineld/laravel-sanctum-project-skeleton.git sanctum`
 * Cd into project directory
 * Run `composer install` command
 * Run `cp .env.example .env` to generate .env file
