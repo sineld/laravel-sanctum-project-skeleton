@@ -53,9 +53,12 @@ You're done!
 
 Now dive into codes and generate your first API application!
 
+You may import `Sanctum API Test.postman_collection.json` file into your Postman app.
+
 Thanks!
 
 [Sinan Eldem](https://www.sinaneldem.com.tr)
+[API Docs](https://documenter.getpostman.com/view/627426/SzfDxR5S?version=latest)
 
 ## License
 
