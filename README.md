@@ -12,6 +12,7 @@ Project basically uses SQLite, you may change it if you like
 * Cd into project directory
 * Run `composer install` command
 * Run `cp .env.example .env` to generate .env file
+* Run `php artisan key:generate` 
 * Run `php artisan migrate --seed` to create needfull tables and users.
 * Redirect Postman to `http://projecturl/api/login` with `email` and `password` *form-data* with POST request
 * Enter `sinan@sinaneldem.com.tr` as email and `secret` as password
